@@ -34,12 +34,12 @@ before building the dashboard visuals.
 - Dashboard screenshots
 - Sample dataset (anonymized)
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file
 2. Open using Power BI Desktop
 3. Refresh data if required
 
-## 🎯 Why This Project Matters
+##  Why This Project Matters
 This project demonstrates:
 - Business-focused data analysis
 - Strong data visualization skills

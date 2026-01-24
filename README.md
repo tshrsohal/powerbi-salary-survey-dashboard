@@ -1,6 +1,6 @@
 # Salary Survey Dashboard (Power BI)
 
-## 📊 Project Overview
+##  Project Overview
 This Power BI project analyzes salary survey data to uncover compensation trends
 across roles, gender, locations, and industries.
 
@@ -9,7 +9,7 @@ The dashboard is designed to help:
 - Employers understand compensation trends
 - Analysts extract insights from workforce data
 
-## 📊 Data Source
+##  Data Source
 The dataset used in this project is provided in Excel format and contains
 salary survey information including role, experience level, location,
 and compensation.
@@ -17,24 +17,24 @@ and compensation.
 The data was cleaned and transformed in Power BI using Power Query
 before building the dashboard visuals.
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - Power BI Desktop
 - Data cleaning & transformation (Power Query)
 - Data modeling
 - Interactive dashboards
 
-## 📌 Key Insights
+##  Key Insights
 - Salary variation by job role
 - Number and average age of survey takers
 - Average salaries by sex
 - Favorite programming language
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 ![Overview](screenshots/overview.png)
 ![Salary by Role](screenshots/salary-by-role.png)
 ![Salary by Location](screenshots/salary-by-location.png)
 
-## 📂 Repository Contents
+##  Repository Contents
 - Power BI `.pbix` file (interactive dashboard)
 - Dashboard screenshots
 - Sample dataset (anonymized)

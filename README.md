@@ -29,11 +29,6 @@ before building the dashboard visuals.
 - Average salaries by sex
 - Favorite programming language
 
-##  Dashboard Preview
-![Overview](screenshots/overview.png)
-![Salary by Role](screenshots/salary-by-role.png)
-![Salary by Location](screenshots/salary-by-location.png)
-
 ##  Repository Contents
 - Power BI `.pbix` file (interactive dashboard)
 - Dashboard screenshots
